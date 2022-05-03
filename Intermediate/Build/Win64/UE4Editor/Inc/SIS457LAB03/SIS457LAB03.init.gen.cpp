@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeSIS457LAB03_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xE0827E87,
-				0x70F63146,
+				0xDE3A9E2F,
+				0x7E11C0C6,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

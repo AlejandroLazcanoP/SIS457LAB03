@@ -1,0 +1,7 @@
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB03\Definitions.SIS457LAB03.h
+C:\Program Files (x86)\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Source\SIS457LAB03/Misil.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Source\SIS457LAB03\Proyectil.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB03\Proyectil.generated.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB03\Misil.generated.h

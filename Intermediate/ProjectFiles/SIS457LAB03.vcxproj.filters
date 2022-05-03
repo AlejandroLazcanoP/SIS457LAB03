@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SIS457LAB03.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E37A22C1-0F9C-49C5-8E37-A5DF43FBB359}</UniqueIdentifier>
+      <UniqueIdentifier>{856A50B5-D7E7-470F-AC24-4F9FCBA758FD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SIS457LAB03.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\SIS457LAB03Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F67B06F8-4C63-4ED0-90D5-11FB4492823E}</UniqueIdentifier>
+      <UniqueIdentifier>{296626C3-13BD-464D-AD55-D6C6D97B6131}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,8 +29,26 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SIS457LAB03">
-      <UniqueIdentifier>{946CDEF8-D84B-4EC0-AF6B-B5D4A8431DF0}</UniqueIdentifier>
+      <UniqueIdentifier>{DDB296E8-0BD3-4DD1-9867-E31A21FDD60C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Bala.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Bala.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Bomba.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Bomba.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Misil.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Misil.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\SIS457LAB03\MyNaveAcuatica.cpp">
       <Filter>Source\SIS457LAB03</Filter>
     </ClCompile>
@@ -99,6 +119,12 @@
       <Filter>Source\SIS457LAB03</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SIS457LAB03\Proyectil.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Rayo.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Rayo.h">
       <Filter>Source\SIS457LAB03</Filter>
     </ClInclude>
     <None Include="..\..\Source\SIS457LAB03\SIS457LAB03.Build.cs">
