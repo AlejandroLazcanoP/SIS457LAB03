@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SIS457LAB03",
+			"Path": "C:\\Users\\ale35\\Desktop\\ciencias de la computacion\\programacion avanzada\\lab\\lab 3\\SIS457LAB03\\Source\\SIS457LAB03.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SIS457LAB03Editor",
+			"Path": "C:\\Users\\ale35\\Desktop\\ciencias de la computacion\\programacion avanzada\\lab\\lab 3\\SIS457LAB03\\Source\\SIS457LAB03Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

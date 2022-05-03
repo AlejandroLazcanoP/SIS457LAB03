@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SIS457LAB03.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E37A22C1-0F9C-49C5-8E37-A5DF43FBB359}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SIS457LAB03.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SIS457LAB03Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F67B06F8-4C63-4ED0-90D5-11FB4492823E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SIS457LAB03">
+      <UniqueIdentifier>{946CDEF8-D84B-4EC0-AF6B-B5D4A8431DF0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SIS457LAB03\MyNaveAcuatica.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\MyNaveAcuatica.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Nave.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Nave.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAcuatica.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAcuatica.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAerea.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAerea.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo01.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo01.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo02.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo02.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo03.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAereaEnemigo03.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveAereaJugador.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveAereaJugador.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveTerrestre.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveTerrestre.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveTerrestreEnemigo01.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveTerrestreEnemigo01.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\NaveTerrestreEnemigo02.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\NaveTerrestreEnemigo02.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\Proyectil.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\Proyectil.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SIS457LAB03\SIS457LAB03.Build.cs">
+      <Filter>Source\SIS457LAB03</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SIS457LAB03\SIS457LAB03.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\SIS457LAB03.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SIS457LAB03\SIS457LAB03GameModeBase.cpp">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SIS457LAB03\SIS457LAB03GameModeBase.h">
+      <Filter>Source\SIS457LAB03</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

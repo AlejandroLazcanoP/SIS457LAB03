@@ -1,0 +1,5 @@
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Development\SIS457LAB03\Definitions.SIS457LAB03.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Source\SIS457LAB03\NaveAerea.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Source\SIS457LAB03\Nave.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB03\Nave.generated.h
+C:\Users\ale35\Desktop\ciencias de la computacion\programacion avanzada\lab\lab 3\SIS457LAB03\Intermediate\Build\Win64\UE4Editor\Inc\SIS457LAB03\NaveAerea.generated.h
